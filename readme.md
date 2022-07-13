@@ -1,3 +1,3 @@
-## DIO - Desafio do Modulo de Gi/Github
+## DIO - Bootcamp Code Girls Santander
 
-Criar um repositório remoto.
+Desafio do Modulo de Git/Github - Criar um repositório remoto.
